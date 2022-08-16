@@ -96,3 +96,22 @@ select.input-error {
 button:disabled {
   opacity: 0.35;
 }
+
+.css-b62m3t-container {
+  text-align: left;
+  font-size: 1rem;
+  color: white;
+  border: 2px solid #4a5568;
+  border-radius: 10px;
+  outline: none;
+}
+.css-1s2u09g-control {
+  background-color: #2d3748 !important;
+}
+.css-1s2u09g-control:focus {
+  background-color: #2d3748 !important;
+}
+
+#react-select-3-listbox {
+  color: #1a202c;
+}
